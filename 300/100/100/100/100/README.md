@@ -24,4 +24,4 @@ To set up UniFi Express:
 10. Lastly you will see the page Connect to Your Express Now. Click **Join WiFi Network**.
 11. Should you get an error whilst trying to connect, move closer to the UniFi Express for a better connection.
 
-Apart from the iPhone, you should now also be able to view and manager your UniFi Network from a browser at https://unifi.ui.com/ even from outside of your home or office where the UniFi Express is located.
+Apart from the iPhone, you should now also be able to view and manager your UniFi Network from a browser at https://unifi.ui.com/ even from outside of your home or office where the UniFi Express is located. See [Connecting to and Managing UniFi Deployments](https://help.ui.com/hc/en-us/articles/11444786290071).
