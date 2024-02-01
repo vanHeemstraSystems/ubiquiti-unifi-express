@@ -1,5 +1,7 @@
 # 100 - UniFi Site Manager
 
+A centralized, license-free solution for all your IT management.
+
 Visit https://unifi.ui.com and log in to the Site Manager.
 
 To Get Started:
