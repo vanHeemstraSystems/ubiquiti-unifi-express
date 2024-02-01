@@ -20,4 +20,5 @@ To set up UniFi Express:
 6. You will be prompted after a few seconds: Complete Setup. We leave the Name as **UniFi Express**, the for the WiFi Setup we keep the Name (SSID) as **UniFi**, and fill in a first time Password (must be between 8 and 13 characters in length.). **IMPORTANT**: Make a note of the Password you have entered! Click **Connect**.
 7. The next page will be Setting up UniFi OS..., wait for it to be completed automatically.
 8. The next page will be Finishing Up..., wait for it to be completed automatically.
-9. 
+9. The next page will be Setup Complete!, wait for it to automatically go to the next page.
+10. Lastly you will see the page Connect to Your Express Now. Click **Join WiFi Network**.
