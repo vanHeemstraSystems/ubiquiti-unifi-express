@@ -2,4 +2,6 @@
 
 ## 100 - UniFi Express
 
+See also "UniFi Express: A Beginner's Guide to UniFi Network" at https://www.youtube.com/watch?v=nU9KgZn3YPY
+
 See also "The Easiest VPN Setup for UniFi Networks - Step-by-Step Tutorial" at https://www.youtube.com/watch?v=urNBjRARxo0
