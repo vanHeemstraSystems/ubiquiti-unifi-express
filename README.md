@@ -3,6 +3,8 @@ ubuquiti-unifi-express
 
 Based on "Ubiquiti UniFi Cloud Gateways: Express" at https://ui.com/eu/en/cloud-gateways/express
 
+Based on "UniFi Express: A Beginner's Guide to UniFi Network" at https://www.youtube.com/watch?v=nU9KgZn3YPY
+
 Based on "The Easiest VPN Setup for UniFi Networks - Step-by-Step Tutorial" at https://www.youtube.com/watch?v=urNBjRARxo0
 
 ## 100 - Introduction
