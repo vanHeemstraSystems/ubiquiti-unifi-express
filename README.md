@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+ubuquiti-unifi-express
+# Ubiquiti UniFi Express
 
-Based on "ABC" at https://www.abc.com/
+Based on "Ubiquiti UniFi Cloud Gateways: Express" at https://ui.com/eu/en/cloud-gateways/express
+
+Based on "The Easiest VPN Setup for UniFi Networks - Step-by-Step Tutorial" at https://www.youtube.com/watch?v=urNBjRARxo0
 
 ## 100 - Introduction
 
