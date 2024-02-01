@@ -17,7 +17,7 @@ To set up UniFi Express:
 3. Install the [UniFi App](https://apps.apple.com/nl/app/unifi/id1057750338) from Apple's App Store on an iPhone.
 4. Allow for some minutes for the UniFi Express to get itself configured, see the status in the display on the device.
 5. Once configured and ready, open the UniFi App on the iPhone; it will have found a new device, being the UniFi Express. Click **Set Up**.
-6. You will be prompted after a few seconds: Complete Setup. We leave the Name as **UniFi Express**, the for the WiFi Setup we keep the Name (SSID) as **UniFi**, and fill in a first time Password (must be between 8 and 13 characters in length.). **IMPORTANT**: Make a note of the Password you have entered! Click **Connect**.
+6. You will be prompted after a few seconds: Complete Setup. We leave the Name as **UniFi Express**, the for the WiFi Setup we keep the Name (SSID) as **UniFi**, and fill in a first time Password (must be between 8 and 13 characters in length.). **IMPORTANT**: Make a note of the Password you have entered! This is now your **Network Security Key**, enter it when connecting to the WiFi Network with SSID **UniFi**. Click **Connect**.
 7. The next page will be Setting up UniFi OS..., wait for it to be completed automatically.
 8. The next page will be Finishing Up..., wait for it to be completed automatically.
 9. The next page will be Setup Complete!, wait for it to automatically go to the next page.
