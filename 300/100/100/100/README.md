@@ -6,7 +6,7 @@ See also "UniFi Express: A Beginner's Guide to UniFi Network" at https://www.you
 
 See also "The Easiest VPN Setup for UniFi Networks - Step-by-Step Tutorial" at https://www.youtube.com/watch?v=urNBjRARxo0
 
-**UniFi Express** is a three-in-one devices, that combines a:
+**UniFi Express** is a three-in-one device, that combines a:
 
 - UnFi Security Gateway
 - UniFi Cloud Key
